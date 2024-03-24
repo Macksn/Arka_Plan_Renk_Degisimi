@@ -1,0 +1,8 @@
+c:\users\acer-v3\documents\visual studio 2010\Projects\colour\colour\obj\x86\Debug\colour.Form1.resources
+c:\users\acer-v3\documents\visual studio 2010\Projects\colour\colour\obj\x86\Debug\colour.Properties.Resources.resources
+c:\users\acer-v3\documents\visual studio 2010\Projects\colour\colour\obj\x86\Debug\colour.csproj.GenerateResource.Cache
+C:\Users\ACER-V3\documents\visual studio 2010\Projects\colour\colour\obj\x86\Debug\colour.csprojResolveAssemblyReference.cache
+C:\Users\ACER-V3\documents\visual studio 2010\Projects\colour\colour\bin\Debug\colour.exe
+C:\Users\ACER-V3\documents\visual studio 2010\Projects\colour\colour\bin\Debug\colour.pdb
+C:\Users\ACER-V3\documents\visual studio 2010\Projects\colour\colour\obj\x86\Debug\colour.exe
+C:\Users\ACER-V3\documents\visual studio 2010\Projects\colour\colour\obj\x86\Debug\colour.pdb
